@@ -1,0 +1,14 @@
+int = int.pare(str)
+double 
+datetime.pare
+
+
+1. sql is primary
+constant value fix = 
+	sql variable={}
+	data ={}
+2.value change = sql @name,@id
+ where name like @mgmg
+	
+	sql variable={'mgmg'}
+	data ={'mgmg'}

@@ -1,0 +1,12 @@
+chamse = create/drop /Alter
+Action Query = change date = insert/delete/update
+	void return
+	obj Name.ActionQuery(...............)	
+selectQuery = Displat Data
+	database = str.selectQuery(......)
+	tool
+		datagrideview  
+		listbox,combobox(column)  
+		testbox
+
+

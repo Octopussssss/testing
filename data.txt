@@ -1,0 +1,15 @@
+project
+serverexplor
+database (BankDB)
+account table
+	aid = nvrch(50)
+	nrc
+	name
+	status	
+
+
+select count(*) from AccountTable where nrc='Abc123';
+select AID from AccountTable where NRC='ABC123';
+insert into AccountTable(AId,NRC,name) values(123,'mama');
+select sum(Damount) from DeposiTable where aid='2'
+select sum(Damount)-(select sum(Wamount) from WithdrawTable where aid = '2') from DeposiTable where aid = '2'
